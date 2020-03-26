@@ -1,0 +1,40 @@
+{
+    "authors": [
+        {
+            "email": null, 
+            "url": "https://os.mbed.com/users/aluqard/", 
+            "maintainer": false, 
+            "name": "SE HUI PARK"
+        }
+    ], 
+    "description": "arduino library for mbed", 
+    "examples": [
+        "https://os.mbed.com/users/aluqard/code/Gameduino2/", 
+        "https://os.mbed.com/users/kkc/code/MemoryGame/"
+    ], 
+    "frameworks": [
+        "mbed"
+    ], 
+    "keywords": [
+        "arduino"
+    ], 
+    "name": "arduino", 
+    "platforms": [
+        "atmelsam", 
+        "freescalekinetis", 
+        "maxim32", 
+        "nordicnrf51", 
+        "nordicnrf52", 
+        "nxplpc", 
+        "siliconlabsefm32", 
+        "ststm32", 
+        "teensy", 
+        "wiznet7500"
+    ], 
+    "repository": {
+        "type": "hg", 
+        "url": "https://os.mbed.com/users/aluqard/code/arduino/"
+    }, 
+    "version": "3b83fc30bb", 
+    "id": 2171
+}

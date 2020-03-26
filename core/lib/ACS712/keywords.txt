@@ -1,0 +1,18 @@
+############################################
+# DATATYPE (KEYWORD1)
+# METHOD AND FUNCTION (KEYWORD2)
+# CONSTANS (LITERAL1)
+############################################
+
+ACS712  KEYWORD1
+ACS712type  KEYWORD1
+
+calibration KEYWORD2
+setZeroPoint  KEYWORD2
+setSensitivity  KEYWORD2
+getCurrentDC  KEYWORD2
+getCurrentAC  KEYWORD2
+
+ACS71205  LITERAL1
+ACS71220  LITERAL1
+ACS71230  LITERAL1
