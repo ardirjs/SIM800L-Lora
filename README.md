@@ -17,7 +17,7 @@
 * [SIM800L](https://github.com/ostaquet/Arduino-SIM800L-driver)
 
 ### Scheme
-* You can see the [SCHEME](https://raw.githubusercontent.com/ardirjs/SIM800L-Lora/master/scheme/SIM800L-Lora.jpg) for details
+* You can see the [SCHEME](https://raw.githubusercontent.com/rjsdevs/SIM800L-Lora/master/scheme/SIM800L-Lora.jpg) for details
 
 ### License
-* This project is licensed under the MIT License - see the [LICENSE](https://github.com/ardirjs/SIM800L-Lora/blob/master/LICENSE) file for details
+* This project is licensed under the MIT License - see the [LICENSE](https://github.com/rjsdevs/sim800l-lora/blob/master/LICENSE) file for details
