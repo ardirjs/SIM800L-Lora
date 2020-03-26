@@ -8,22 +8,22 @@
     <meta name="theme-color" content="#343a40"/>
     <meta name="msapplication-navbutton-color" content="#343a40"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="#343a40"/>
-    <meta name="programmer" content="ardirjs, https://github.com/ardirjs"/>
-    <meta name="description" content="ardirjs, https://github.com/ardirjs"/>
-    <meta name="keywords" content="ardirjs, https://github.com/ardirjs"/>
-    <meta name="author" content="ardirjs, https://github.com/ardirjs"/>
-    <meta name="title" content="ardirjs, https://github.com/ardirjs"/>
-    <meta name="copyright" content="ardirjs, https://github.com/ardirjs"/>
+    <meta name="programmer" content="rjsdevs, https://github.com/rjsdevs"/>
+    <meta name="description" content="rjsdevs, https://github.com/rjsdevs"/>
+    <meta name="keywords" content="rjsdevs, https://github.com/rjsdevs"/>
+    <meta name="author" content="rjsdevs, https://github.com/rjsdevs"/>
+    <meta name="title" content="rjsdevs, https://github.com/rjsdevs"/>
+    <meta name="copyright" content="rjsdevs, https://github.com/rjsdevs"/>
     <meta Http-Equiv="Expires" content="0"/>
     <meta Http-Equiv="Pragma" content="No-Cache"/>
     <meta Http-Equiv="Cache-Control" content="No-Cache"/>
     <meta Http-Equiv="Cache-Control" content="No-Store"/>
     <meta Http-Equiv="Content-Language" content="En-Us"/>
     <meta Http-Equiv="X-UA-Compatible" content="IE=Edge"/>
-    <link href="https://ardirjs.github.io/dependencies/font/roboto-slab/roboto-slab.css" rel="stylesheet" type="text/css">
-    <link href="https://ardirjs.github.io/dependencies/font/russo-one/russo-one.css" rel="stylesheet" type="text/css">
-    <link href="https://ardirjs.github.io/dependencies/font/teko/teko.css" rel="stylesheet" type="text/css">
-    <link href="https://ardirjs.github.io/dependencies/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="https://rjsdevs.github.io/web-dependencies/fonts/roboto-slab/roboto-slab.css" rel="stylesheet" type="text/css">
+    <link href="https://rjsdevs.github.io/web-dependencies/fonts/russo-one/russo-one.css" rel="stylesheet" type="text/css">
+    <link href="https://rjsdevs.github.io/web-dependencies/fonts/teko/teko.css" rel="stylesheet" type="text/css">
+    <link href="https://rjsdevs.github.io/web-dependencies/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <style media="screen">
       .header {margin-bottom: 2rem; box-shadow: 2px 2px 5px #343a40;}
       .header-title {padding: 2rem 0; color: #fff; font-size: 1.5em; font-family: 'Russo One', sans-serif;}
@@ -62,9 +62,9 @@
         </div>
       </div>
     </div>
-    <script src="https://ardirjs.github.io/dependencies/jquery/dist/jquery.min.js" charset="utf-8" type="text/javascript"></script>
-    <script src="https://ardirjs.github.io/dependencies/popper/core/dist/umd/popper.min.js" charset="utf-8" type="text/javascript"></script>
-    <script src="https://ardirjs.github.io/dependencies/bootstrap/dist/js/bootstrap.min.js" charset="utf-8" type="text/javascript"></script>
+    <script src="https://rjsdevs.github.io/web-dependencies/jquery/jquery.min.js" charset="utf-8" type="text/javascript"></script>
+    <script src="https://rjsdevs.github.io/web-dependencies/popper/popper.min.js" charset="utf-8" type="text/javascript"></script>
+    <script src="https://rjsdevs.github.io/web-dependencies/bootstrap/js/bootstrap.min.js" charset="utf-8" type="text/javascript"></script>
     <script type="text/javascript">
       $(document).ready(function() {
         jQuery.ajax({url: 'loads.php', cache: false, success: function(result) {
